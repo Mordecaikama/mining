@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mordecaikama.github.io/mining/static/css/main.e18fc8b5.css",
+    "main.js": "/mordecaikama.github.io/mining/static/js/main.7ccd4bc1.js",
+    "static/media/profile-1.jpg": "/mordecaikama.github.io/mining/static/media/profile-1.f67c38ecae8eabd9769c.jpg",
+    "index.html": "/mordecaikama.github.io/mining/index.html",
+    "main.e18fc8b5.css.map": "/mordecaikama.github.io/mining/static/css/main.e18fc8b5.css.map",
+    "main.7ccd4bc1.js.map": "/mordecaikama.github.io/mining/static/js/main.7ccd4bc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e18fc8b5.css",
+    "static/js/main.7ccd4bc1.js"
+  ]
+}
